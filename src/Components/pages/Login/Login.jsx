@@ -28,7 +28,7 @@ const Login = () => {
               <button className="btn btn-blue">
                 Login
               </button>
-              <button className="btn btn-blue">
+              <button className="btn btn-green">
                 Registro
               </button>
             </div>
