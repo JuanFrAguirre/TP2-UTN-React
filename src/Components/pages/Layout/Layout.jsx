@@ -1,7 +1,7 @@
 import React from 'react'
 import Home from '../Home/Home'
 import Login from '../Login/Login'
-import SignIn from '../SingIn/SignIn'
+import SignIn from '../SignIn/SignIn'
 import ProductDetails from '../ProductDetails/ProductDetails'
 import { Route, BrowserRouter as Router, Switch, NavLink, Redirect } from 'react-router-dom'
 import './Layout.scss'
